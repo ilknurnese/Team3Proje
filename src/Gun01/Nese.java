@@ -8,5 +8,9 @@ public class Nese {
 
         System.out.println("Task 1 yapıldı");
 
+        System.out.println("İyiyim. Teşekkür ederim. Sen nasılsın?");
+
+        System.out.println("Task 2 yapıldı");
+
     }
 }
