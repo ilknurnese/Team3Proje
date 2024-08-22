@@ -12,5 +12,9 @@ public class Nese {
 
         System.out.println("Task 2 yapıldı");
 
+        System.out.println("Ben de iyiyim");
+
+        System.out.println("Task 3 yapıldı");
+
     }
 }
